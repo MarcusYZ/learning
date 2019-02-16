@@ -1,2 +1,2 @@
 # learning
-小demo和总结
+react-redux todolist demo
